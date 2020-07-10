@@ -1,6 +1,6 @@
 ### Since you are here, I'll tell you about myself 👋
 
-### I am Software Engineer who uses Laravel and try to pose as a designer and frontend developer by using Vue and Figma. Since my hands can't stay put, I find myself doing Machine Learning Stuff.
+### I am a Software Engineer who uses Laravel and try to pose as a designer and frontend developer by using Figma and Vue. Since my hands can't stay put, I find myself doing Machine Learning Stuff once in a while.
 #### 📫 How to reach me:
 * mubaraqsanusi908@gmail.com
 * https://twitter.com/WeirdMatrix

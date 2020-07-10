@@ -1,4 +1,12 @@
-### Hi there 👋
+### Since you are here, I'll tell you about myself 👋
+
+### I am Software Engineer who uses Laravel and try to pose as a designer and frontend developer by using Vue and Figma. Since my hands can't stay put, I find myself doing Machine Learning Stuff.
+#### 📫 How to reach me:
+* mubaraqsanusi908@gmail.com
+* https://twitter.com/WeirdMatrix
+
+#### 🔭 I’m currently working on:
+* https://bookdical.com
 
 <!--
 **LPMatrix/LPMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Since you are here, I'll tell you about myself 👋
 
-### I am a Software Engineer who uses PHP and Python with knowledge of fundamental computing topics, e.g. networking, databases, concurrency, parallelism, locking, algorithms, data structures, performance monitoring, optimisation, etc, and I find myself doing Machine Learning Stuff once in a while.
+**I am a Software Engineer who uses PHP and Python with knowledge of fundamental computing topics, e.g. networking, databases, concurrency, parallelism, locking, algorithms, data structures, performance monitoring, optimisation, etc, and I find myself doing Machine Learning Stuff once in a while.**
 #### 📫 How to reach me:
 * mubaraqsanusi908@gmail.com
 * https://twitter.com/WeirdMatrix

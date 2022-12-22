@@ -20,22 +20,19 @@
 ### 👯 I’m looking to collaborate on
 * System design tasks
 
-<!--
-**LPMatrix/LPMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=lpmatrix&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatrix&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=lpmatrix&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
-- Knowledge of modern software engineering practises, e.g DDD, TDD
-- Knowledge of fundamental computing topics, e.g. networking, databases, concurrency, parallelism, locking, algorithms, data structures, performance monitoring, optimisation, etc
-- Strong System Architecture Design skills
-- Experience working with containers
--->
+<hr>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lpmatrix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+
+<hr>

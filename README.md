@@ -1,6 +1,10 @@
 ### Since you are here, I'll tell you about myself 👋
 
-**I am a Software Engineer who uses PHP and Python with knowledge of fundamental computing topics, e.g. networking, databases, concurrency, parallelism, locking, algorithms, data structures, performance monitoring, optimisation, etc, and I find myself building or contributing to open source projects once in a while.**
+I am a software engineer with a passion for solving complex problems and building efficient and scalable systems. My skillset includes PHP and Python, and I have a solid foundation in fundamental computing concepts such as networking, databases, concurrency, parallelism, locking, algorithms, data structures, performance monitoring, and optimization.
+
+In my free time, I enjoy participating in and contributing to open source projects, as I believe in the power of collaboration and sharing knowledge to drive innovation.
+
+Thank you for visiting my profile. I am always open to new opportunities and challenges, so please don't hesitate to reach out.
 #### 📫 How to reach me:
 * mubaraqsanusi908@gmail.com
 * https://twitter.com/WeirdMatrix

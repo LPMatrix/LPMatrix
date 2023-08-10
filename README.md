@@ -25,6 +25,21 @@ System design tasks are my playground! If you're seeking a co-pilot to brainstor
 I'm just an email away at mubaraqsanusi908@gmail.com. Connect with me on Twitter (https://twitter.com/WeirdMatrix) for tech talks, memes, and everything in between.
 
 
+<hr>
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=lpmatrix&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatrix&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=lpmatrix&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lpmatrix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+
+<hr>
 
 
 

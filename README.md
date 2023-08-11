@@ -9,6 +9,8 @@ Infrastructure: From crafting resilient databases to implementing parallelism an
 ### 🌐 Open Source and Beyond:
 Believing in the power of collaboration, I actively participate in open source projects and contribute to the global tech community. Sharing knowledge and fostering innovation is the name of my game.
 
+Beyond coding, I'm passionate about sharing knowledge. I write in-depth articles on Hashnode (https://matrix.hashnode.dev/), covering a wide range of tech topics.
+
 ### 💡 Fun Fact:
 I'm a paradox! They say I'm both dumb and smart, and I take pride in it. After all, true brilliance lies in the balance between ingenuity and humility.
 

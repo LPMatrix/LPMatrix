@@ -1,5 +1,5 @@
 ### 🚀 About Me:
-I'm a code enthusiast with a relentless drive to crack puzzles and create efficient solutions. Whether it's optimizing algorithms or orchestrating networks, I'm your go-to guy. My mission is to transform ideas into reality, one line of code at a time.
+I'm a software craftsman with a relentless drive to crack puzzles and create efficient solutions. Whether it's optimizing algorithms or orchestrating networks, I'm your go-to guy. My mission is to transform ideas into reality, one line of code at a time.
 
 ### 🛠️ Tech Toolbox:
 Languages: PHP and Python are my main arsenals, but I'm always hungry to learn more. I dabble in various languages to expand my horizons and stay ahead of the curve.

@@ -14,15 +14,6 @@ Beyond coding, I'm passionate about sharing knowledge. I write in-depth articles
 ### 💡 Fun Fact:
 I'm a paradox! They say I'm both dumb and smart, and I take pride in it. After all, true brilliance lies in the balance between ingenuity and humility.
 
-### 🔭 Current Project:
-My latest baby is Bookdical, a platform that promises to revolutionize how people approach telemedicine. Stay tuned for a thrilling journey into the world of healthcare!
-
-### 💬 Let's Talk Tech:
-Want to dive into the depths of Laravel or explore the frontiers of Vue? Need guidance in setting up your next big thing on DigitalOcean? I'm here to answer any burning questions and share my expertise.
-
-### 👯 Collaborate With Me:
-System design tasks are my playground! If you're seeking a co-pilot to brainstorm ideas and bring your visions to life, let's join forces and embark on an exhilarating coding adventure.
-
 ### 📫 Reach Out:
 I'm just an email away at mubaraqsanusi908@gmail.com. Connect with me on Twitter (https://twitter.com/WeirdMatrix) for tech talks, memes, and everything in between.
 

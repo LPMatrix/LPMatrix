@@ -1,4 +1,4 @@
-### 🚀 About Me:
+## 🚀 About Me:
 I'm a software craftsman with a relentless drive to crack puzzles and create efficient solutions. Whether it's optimizing algorithms or orchestrating networks, I'm your go-to guy. My mission is to transform ideas into reality, one line of code at a time.
 
 ### 🛠️ Tech Toolbox:
@@ -6,13 +6,18 @@ Languages: PHP and Python are my main arsenals, but I'm always hungry to learn m
 
 Infrastructure: From crafting resilient databases to implementing parallelism and unlocking concurrency, I'm a master of systems that perform like a well-oiled machine.
 
+## 🎮 Fun Projects
+
+Here are some fun projects I've worked on for exploration and creativity:
+
+-  [Code Explainer](https://code-explainer.netlify.app/) – Powered by Mistral AI! It takes any code snippet and explains exactly what it does in plain English. Perfect for learning, code reviews, or understanding legacy code.
+-  [Spend Nigerian Billionaire Money](https://spend-nigerian-billionaires-money.netlify.app/) – An interactive web app that lets you experience spending the fortunes of Nigeria's wealthiest people on luxury items, investments, and everyday purchases.
+-  [Paletteer](https://paletteer.netlify.app/) – A simple web tool that extracts color palettes from any uploaded image, allowing designers and creatives to easily capture and use color schemes from their favorite photos or artwork.
+
 ### 🌐 Open Source and Beyond:
 Believing in the power of collaboration, I actively participate in open source projects and contribute to the global tech community. Sharing knowledge and fostering innovation is the name of my game.
 
 Beyond coding, I'm passionate about sharing knowledge. I write in-depth articles on Hashnode (https://matrix.hashnode.dev/), covering a wide range of tech topics.
-
-### 💡 Fun Fact:
-I'm a paradox! They say I'm both dumb and smart, and I take pride in it. After all, true brilliance lies in the balance between ingenuity and humility.
 
 ### 📫 Reach Out:
 I'm just an email away at mubaraqsanusi908@gmail.com. Connect with me on Twitter (https://twitter.com/WeirdMatrix) for tech talks, memes, and everything in between.

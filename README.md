@@ -13,6 +13,7 @@ Here are some fun projects I've worked on for exploration and creativity:
 -  [Code Explainer](https://code-explainer.netlify.app/) – Powered by Mistral AI! It takes any code snippet and explains exactly what it does in plain English. Perfect for learning, code reviews, or understanding legacy code.
 -  [Spend Nigerian Billionaire Money](https://spend-nigerian-billionaires-money.netlify.app/) – An interactive web app that lets you experience spending the fortunes of Nigeria's wealthiest people on luxury items, investments, and everyday purchases.
 -  [Paletteer](https://paletteer.netlify.app/) – A simple web tool that extracts color palettes from any uploaded image, allowing designers and creatives to easily capture and use color schemes from their favorite photos or artwork.
+- [Iqmah](https://al-iqmah.netlify.app/) – A comprehensive digital resource providing authentic Islamic content including Quran with translations, hadith collections, prayer times, qibla direction, and educational articles to help Muslims connect with their faith in the digital age.
 
 ### 🌐 Open Source and Beyond:
 Believing in the power of collaboration, I actively participate in open source projects and contribute to the global tech community. Sharing knowledge and fostering innovation is the name of my game.

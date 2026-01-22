@@ -1,45 +1,79 @@
 ## 🚀 About Me:
-I'm a software craftsman with a relentless drive to crack puzzles and create efficient solutions. Whether it's optimizing algorithms or orchestrating networks, I'm your go-to guy. My mission is to transform ideas into reality, one line of code at a time.
+Building production-grade AI systems with focus on RAG architectures, agent frameworks, and LLM integration. Backed by 5+ years of backend engineering and infrastructure experience.
 
-### 🛠️ Tech Toolbox:
-Languages: PHP and Python are my main arsenals, but I'm always hungry to learn more. I dabble in various languages to expand my horizons and stay ahead of the curve.
+---
 
-Infrastructure: From crafting resilient databases to implementing parallelism and unlocking concurrency, I'm a master of systems that perform like a well-oiled machine.
+## 🎯 AI Projects
 
-## 🎮 Fun Projects
+### [RAG Document Assistant](https://github.com/LPMatrix/rag-doc-assistant)
+Production-ready RAG system for querying large document collections. Built with LangChain, Pinecone vector database, and OpenAI embeddings. Handles multi-document retrieval with citation tracking and context management.
 
-Here are some fun projects I've worked on for exploration and creativity:
+**Tech:** Python, LangChain, Pinecone, OpenAI API, FastAPI
 
--  [Code Explainer](https://code-explainer.netlify.app/) – Powered by Mistral AI! It takes any code snippet and explains exactly what it does in plain English. Perfect for learning, code reviews, or understanding legacy code.
--  [Spend Nigerian Billionaire Money](https://spend-nigerian-billionaires-money.netlify.app/) – An interactive web app that lets you experience spending the fortunes of Nigeria's wealthiest people on luxury items, investments, and everyday purchases.
--  [Paletteer](https://paletteer.netlify.app/) – A simple web tool that extracts color palettes from any uploaded image, allowing designers and creatives to easily capture and use color schemes from their favorite photos or artwork.
-- [Iqmah](https://al-iqmah.netlify.app/) – A comprehensive digital resource providing authentic Islamic content including Quran with translations, hadith collections, prayer times, qibla direction, and educational articles to help Muslims connect with their faith in the digital age.
+---
 
-### 🌐 Open Source and Beyond:
-Believing in the power of collaboration, I actively participate in open source projects and contribute to the global tech community. Sharing knowledge and fostering innovation is the name of my game.
+### [MCP GitHub Integration Server](https://github.com/LPMatrix/mcp-github-server)
+Model Context Protocol server enabling LLMs to interact with GitHub repositories - search code, manage issues, and analyze repo structures directly from AI interfaces.
 
-Beyond coding, I'm passionate about sharing knowledge. I write in-depth articles on Hashnode (https://matrix.hashnode.dev/), covering a wide range of tech topics.
+**Tech:** Python, MCP SDK, GitHub API, asyncio
 
-### 📫 Reach Out:
-I'm just an email away at mubaraqsanusi908@gmail.com. Connect with me on Twitter (https://twitter.com/WeirdMatrix) for tech talks, memes, and everything in between.
+---
 
+### [Code Explainer](https://code-explainer.netlify.app/)
+AI-powered tool that breaks down code snippets into plain English explanations. Supports multiple languages and provides detailed breakdowns of logic flow, functions, and patterns.
 
-<hr>
+**Tech:** JavaScript, Mistral AI API, React
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=lpmatrix&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatrix&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=lpmatrix&theme=darcula&hide_border=true&background=FFFFFF00">
+---
 
-</p>
+### [Multi-Agent Task Orchestrator](https://github.com/LPMatrix/agent-orchestrator)
+Framework for coordinating multiple specialized AI agents to handle complex workflows. Implements agent communication protocols, task delegation, and result aggregation.
 
-<hr>
+**Tech:** Python, LangChain, OpenAI, Redis (for agent state)
+
+---
+
+## 🛠️ Technical Stack
+
+**AI/ML:** Python, LangChain, LlamaIndex, OpenAI/Anthropic APIs, Hugging Face, Vector Databases (Pinecone, Weaviate, Qdrant), MCP Protocol
+
+**Backend Foundation:** PHP/Laravel, Python/FastAPI, MySQL, PostgreSQL, REST APIs, Microservices
+
+**Infrastructure:** Docker, Kubernetes, Terraform, Azure, CI/CD, Performance Optimization
+
+---
+
+## 🎮 Other Projects
+
+* [Paletteer](https://paletteer.netlify.app/) – Extract color palettes from images using computer vision
+* [Spend Nigerian Billionaire Money](https://spend-nigerian-billionaires-money.netlify.app/) – Interactive economics simulation
+* [Iqmah](https://al-iqmah.netlify.app/) – Islamic digital resource platform
+
+---
+
+## 📝 Writing & Knowledge Sharing
+
+I write about AI engineering, LLM applications, and software architecture at [matrix.hashnode.dev](https://matrix.hashnode.dev/)
+
+Recent topics: RAG system design patterns, optimizing inference costs, building reliable agent systems
+
+---
+
+## 📫 Connect
+
+**Email:** mubaraqsanusi908@gmail.com  
+**Twitter:** [@weirdmatrix](https://twitter.com/WeirdMatrix)  
+**Location:** Lagos, Nigeria
+
+---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lpmatrix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpmatrix&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatrix&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)
 
-<hr>
+---
+
 
 
 

@@ -1,79 +1,162 @@
-## 🚀 About Me:
-Building production-grade AI systems with focus on RAG architectures, agent frameworks, and LLM integration. Backed by 5+ years of backend engineering and infrastructure experience.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=120&section=header&text=Sanusi%20Mubaraq&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=AI%20Systems%20Engineer&descAlignY=70&descSize=16&descColor=9FE1CB" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+Backend engineer turned AI systems builder. I design and ship production RAG pipelines,<br/>
+agent frameworks, and LLM integrations — with 5 years of infrastructure experience<br/>
+keeping me honest about what actually runs in prod.
+
+<br/><br/>
+
+[![Location](https://img.shields.io/badge/Ibadan%2C%20Nigeria-0F6E56?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ibadan,Nigeria)
+[![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-185FA5?style=flat-square&logoColor=white)](#)
+[![Available for contracts](https://img.shields.io/badge/Available%20for%20contracts-534AB7?style=flat-square&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🎯 AI Projects
+<br/>
+
+## 🔨 What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [RAG Document Assistant](https://github.com/LPMatrix/rag-doc-assistant)
-Production-ready RAG system for querying large document collections. Built with LangChain, Pinecone vector database, and OpenAI embeddings. Handles multi-document retrieval with citation tracking and context management.
+Production-ready system for querying large document collections. Multi-document retrieval with citation tracking. The kind of thing that actually needs to work at scale.
 
-**Tech:** Python, LangChain, Pinecone, OpenAI API, FastAPI
+![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F6E56?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-185FA5?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-2C2C2A?style=flat-square&logo=openai&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [MCP GitHub Integration Server](https://github.com/LPMatrix/mcp-github-server)
-Model Context Protocol server enabling LLMs to interact with GitHub repositories - search code, manage issues, and analyze repo structures directly from AI interfaces.
+MCP server that gives LLMs direct access to GitHub — code search, issue management, repo analysis. Built on the protocol, not around it.
 
-**Tech:** Python, MCP SDK, GitHub API, asyncio
+![MCP SDK](https://img.shields.io/badge/MCP%20SDK-534AB7?style=flat-square&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-2C2C2A?style=flat-square&logo=github&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-185FA5?style=flat-square&logo=python&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Multi-Agent Orchestrator](https://github.com/LPMatrix/agent-orchestrator)
+Framework for coordinating specialized AI agents across complex workflows — communication protocols, task delegation, result aggregation, agent state via Redis.
+
+![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-2C2C2A?style=flat-square&logo=openai&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A32D2D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### [Code Explainer](https://code-explainer.netlify.app/)
-AI-powered tool that breaks down code snippets into plain English explanations. Supports multiple languages and provides detailed breakdowns of logic flow, functions, and patterns.
+AI-powered tool that breaks down code snippets into plain English. Supports multiple languages with detailed logic and pattern breakdowns.
 
-**Tech:** JavaScript, Mistral AI API, React
+![React](https://img.shields.io/badge/React-185FA5?style=flat-square&logo=react&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-BA7517?style=flat-square&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0F6E56?style=flat-square&logo=netlify&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
-### [Multi-Agent Task Orchestrator](https://github.com/LPMatrix/agent-orchestrator)
-Framework for coordinating multiple specialized AI agents to handle complex workflows. Implements agent communication protocols, task delegation, and result aggregation.
-
-**Tech:** Python, LangChain, OpenAI, Redis (for agent state)
-
----
-
-## 🛠️ Technical Stack
-
-**AI/ML:** Python, LangChain, LlamaIndex, OpenAI/Anthropic APIs, Hugging Face, Vector Databases (Pinecone, Weaviate, Qdrant), MCP Protocol
-
-**Backend Foundation:** PHP/Laravel, Python/FastAPI, MySQL, PostgreSQL, REST APIs, Microservices
-
-**Infrastructure:** Docker, Kubernetes, Terraform, Azure, CI/CD, Performance Optimization
+<br/>
 
 ---
 
-## 🎮 Other Projects
+## 🧠 Stack
 
-* [Paletteer](https://paletteer.netlify.app/) – Extract color palettes from images using computer vision
-* [Spend Nigerian Billionaire Money](https://spend-nigerian-billionaires-money.netlify.app/) – Interactive economics simulation
-* [Iqmah](https://al-iqmah.netlify.app/) – Islamic digital resource platform
+<div align="center">
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-534AB7?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F6E56?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-BA7517?style=flat-square&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-2C2C2A?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-2C2C2A?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-534AB7?style=flat-square&logoColor=white)
+
+<br/>
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-185FA5?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-A32D2D?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-185FA5?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F6E56?style=flat-square&logo=mysql&logoColor=white)
+
+<br/>
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-185FA5?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-185FA5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-185FA5?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-534AB7?style=flat-square&logo=terraform&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-## 📝 Writing & Knowledge Sharing
+## ✍️ Writing
 
-I write about AI engineering, LLM applications, and software architecture at [matrix.hashnode.dev](https://matrix.hashnode.dev/)
+I write about AI engineering, LLM applications, and software architecture at **[linkedin.com/in/sirematrix](https://linkedin.com/in/sirematrix)**
 
-Recent topics: RAG system design patterns, optimizing inference costs, building reliable agent systems
+> RAG system design patterns &nbsp;·&nbsp; optimizing inference costs &nbsp;·&nbsp; building reliable agent systems
 
----
-
-## 📫 Connect
-
-**Email:** mubaraqsanusi908@gmail.com  
-**Twitter:** [@weirdmatrix](https://twitter.com/WeirdMatrix)  
-**Location:** Lagos, Nigeria
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎮 Other projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpmatrix&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatrix&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)
+[![Paletteer](https://img.shields.io/badge/Paletteer-color%20palette%20extractor-D85A30?style=flat-square)](https://paletteer.netlify.app/)
+[![Spend Nigerian Billionaire Money](https://img.shields.io/badge/Spend%20Nigerian%20Billionaire%20Money-economics%20sim-BA7517?style=flat-square)](https://spend-nigerian-billionaires-money.netlify.app/)
+[![Iqmah](https://img.shields.io/badge/Iqmah-islamic%20digital%20resource-534AB7?style=flat-square)](https://al-iqmah.netlify.app/)
+
+<br/>
 
 ---
 
+## 📊 Activity
+ 
+<div align="center">
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpmatrix&theme=github" width="100%" />
+ 
+</div>
 
+---
 
+<div align="center">
 
+[![Email](https://img.shields.io/badge/mubaraqsanusi908%40gmail.com-2C2C2A?style=flat-square&logo=gmail&logoColor=white)](mailto:mubaraqsanusi908@gmail.com)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/@weirdmatrix-185FA5?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/WeirdMatrix)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirematrix/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=80&section=footer" width="100%"/>
+
+</div>

@@ -8,9 +8,8 @@
 
 <div align="center">
 
-Backend engineer turned AI systems builder. I design and ship production RAG pipelines,<br/>
-agent frameworks, and LLM integrations — with 5 years of infrastructure experience<br/>
-keeping me honest about what actually runs in prod.
+I help teams figure out where AI fits in their stack — then I build it.<br/>
+RAG pipelines, agent frameworks, LLM integrations. Strategy that doesn't stop at the whiteboard.
 
 <br/><br/>
 
@@ -119,9 +118,9 @@ AI-powered tool that breaks down code snippets into plain English. Supports mult
 
 ## ✍️ Writing
 
-I write about AI engineering, LLM applications, and software architecture at **[linkedin.com/in/sirematrix](https://linkedin.com/in/sirematrix)**
+I write about AI strategy, LLM applications, and engineering at **[linkedin.com/in/sirematrix](https://linkedin.com/in/sirematrix)**
 
-> RAG system design patterns &nbsp;·&nbsp; optimizing inference costs &nbsp;·&nbsp; building reliable agent systems
+> AI adoption for engineering teams &nbsp;·&nbsp; RAG system design patterns &nbsp;·&nbsp; building reliable agent systems
 
 <br/>
 
@@ -138,11 +137,11 @@ I write about AI engineering, LLM applications, and software architecture at **[
 ---
 
 ## 📊 Activity
- 
+
 <div align="center">
- 
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpmatrix&theme=github" width="100%" />
- 
+
 </div>
 
 ---
@@ -157,6 +156,17 @@ I write about AI engineering, LLM applications, and software architecture at **[
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=80&section=footer" width="100%"/>
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1D9E75"/>
+      <stop offset="100%" style="stop-color:#0F6E56"/>
+    </linearGradient>
+    <clipPath id="footer-wave">
+      <path d="M0,20 Q200,0 400,15 Q600,30 800,10 L800,60 L0,60 Z"/>
+    </clipPath>
+  </defs>
+  <rect width="800" height="60" fill="url(#footer-bg)" clip-path="url(#footer-wave)"/>
+</svg>
 
 </div>

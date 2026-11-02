@@ -62,12 +62,12 @@ Framework for coordinating specialized AI agents across complex workflows — co
 </td>
 <td width="50%" valign="top">
 
-### [Code Explainer](https://code-explainer.netlify.app/)
-AI-powered tool that breaks down code snippets into plain English. Supports multiple languages with detailed logic and pattern breakdowns.
+### [TickerNG](https://tickerng.com)
+AI-powered equity research terminal for the Nigerian Exchange (NGX). Automates financial statement extraction from company filings with stock screeners and verified AI analysis.
 
-![React](https://img.shields.io/badge/React-185FA5?style=flat-square&logo=react&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral%20AI-BA7517?style=flat-square&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0F6E56?style=flat-square&logo=netlify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-BA7517?style=flat-square&logo=openai&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F6E56?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
